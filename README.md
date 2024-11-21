@@ -142,9 +142,9 @@ Send the blockchain to a peer:
 
 ---
 
-## **Contributing**
+## **Author**
 
-Contributions are welcome! If you have suggestions or bug fixes, feel free to open an issue or submit a pull request.
+(Tobi Delly)[https://www.github.com/tobidelly]
 
 ---
 
