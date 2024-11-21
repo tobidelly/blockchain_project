@@ -51,8 +51,8 @@ blockchain/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/blockchain-c
-   cd blockchain-c
+   git clone https://github.com/tobidelly/blockchain_project.git
+   cd blockchain_project
    ```
 
 2. Compile the project:
