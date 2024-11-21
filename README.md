@@ -144,7 +144,7 @@ Send the blockchain to a peer:
 
 ## **Author**
 
-(Tobi Delly)[https://www.github.com/tobidelly]
+[Tobi Delly](https://www.github.com/tobidelly)
 
 ---
 
