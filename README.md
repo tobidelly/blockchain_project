@@ -51,8 +51,8 @@ blockchain/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/blockchain-c
-   cd blockchain-c
+   git clone https://github.com/tobidelly/blockchain_project.git
+   cd blockchain_project
    ```
 
 2. Compile the project:
@@ -142,9 +142,9 @@ Send the blockchain to a peer:
 
 ---
 
-## **Contributing**
+## **Author**
 
-Contributions are welcome! If you have suggestions or bug fixes, feel free to open an issue or submit a pull request.
+[Tobi Delly](https://www.github.com/tobidelly)
 
 ---
 
